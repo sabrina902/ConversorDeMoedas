@@ -1,6 +1,6 @@
 import flet as ft
 import requests
-#
+
 def main(page: ft.Page):
 
     def conectarAPI(moeda):
