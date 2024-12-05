@@ -1,5 +1,5 @@
-#instalando biblioteca
-pip install pyinstaller
+# instalando biblioteca
+> pip install pyinstaller
 
-#criando o .exe
-pyinstaller --onefile --windowed arquivo.py
+# criando o .exe
+> pyinstaller --onefile --windowed arquivo.py
